@@ -1,0 +1,11 @@
+/Users/yenya/learnrust/openglproject/target/debug/build/zstring/fe6ff3a059bccd53/out/zstring-fe6ff3a059bccd53.d: /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/lib.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/char_decoder.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/zstr.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/array_zstring.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/_zstring.rs
+
+/Users/yenya/learnrust/openglproject/target/debug/build/zstring/fe6ff3a059bccd53/out/libzstring-fe6ff3a059bccd53.rlib: /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/lib.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/char_decoder.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/zstr.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/array_zstring.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/_zstring.rs
+
+/Users/yenya/learnrust/openglproject/target/debug/build/zstring/fe6ff3a059bccd53/out/libzstring-fe6ff3a059bccd53.rmeta: /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/lib.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/char_decoder.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/zstr.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/array_zstring.rs /Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/_zstring.rs
+
+/Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/lib.rs:
+/Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/char_decoder.rs:
+/Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/zstr.rs:
+/Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/array_zstring.rs:
+/Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstring-0.2.4/src/_zstring.rs:

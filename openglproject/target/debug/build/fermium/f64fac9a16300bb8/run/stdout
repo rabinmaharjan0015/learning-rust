@@ -1,0 +1,13 @@
+cargo:rerun-if-changed=build.rs
+Performing dynamically-linked build against the system SDL2.
+out_dir:/Users/yenya/learnrust/openglproject/target/debug/build/fermium/f64fac9a16300bb8/out
+cargo_manifest_dir:/Users/yenya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fermium-22605.0.1
+target:aarch64-apple-darwin
+target_os:macos
+target_arch:aarch64
+target_vendor:apple
+sd2_config_linking_stdout: -L/opt/homebrew/lib -lSDL2main -lSDL2 -Wl,-framework,Cocoa
+
+cargo:rustc-link-search=native=/opt/homebrew/lib
+cargo:rustc-link-lib=framework=Cocoa
+cargo:rustc-link-lib=SDL2
